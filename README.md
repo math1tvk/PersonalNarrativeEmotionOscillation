@@ -1,0 +1,2 @@
+# PersonalNarrativeEmotionOscillation
+This is the first step towards a bigger project for processing personal narratives. In this step, we used limited number of personal narratives from "Feeding America" charity website. We have done very basic emotional processing on these data to see the oscillation of emotions in these narratives. The implementation is on Python and it benefits from Rake library (with slight modification) and NRC lexicon datasets. 
